@@ -7,7 +7,7 @@
     "deferred": "^0.7.5",
     "protobufjs": "^5.0.1",
     "readline-sync": "^1.4.9",
-    "steam": "^1.4.0",
+    "steam": "git+https://git@github.com/easekits-com/node-steam.git",
     "steam-resources": "github:seishun/node-steam-resources"
   },
   "devDependencies": {
